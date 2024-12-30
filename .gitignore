@@ -1,1 +1,1 @@
-# Ignore the .env file.env# Ignore all .log files*.logvenv/
+# Ignore the .env file.env# Ignore all .log files*.logvenv/.idea/
