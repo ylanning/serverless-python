@@ -1,0 +1,1 @@
+apiVersion: serving.knative.dev/v1kind: Servicemetadata:  name: serverless-py-runspec:  template:    spec:      containers:      - image: serverless-python-server
